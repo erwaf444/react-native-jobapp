@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "react-app",
-    "slug": "react-app"
+    "slug": "react-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fda8130f-1832-41a3-b337-a7293a6092db"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fda8130f-1832-41a3-b337-a7293a6092db"
+    },
+    "android": {},
+    "ios": {}
   }
 }
